@@ -6,3 +6,7 @@ I classified words according to their syntactic features. In this work I used Tu
 ## 2- Junk Word Classification (Anomaly / Novelty Detection)
 
 In 2nd part, I implemented Novelty Detection via Local Outlier Factor where I identified junk words from actual words, regardless of the language since junk/random words carry distinctive features.
+
+## Character Level Language Classification NLP with LSTM
+
+Using more data, I implemented a character-level language classification using LSTM. F1 score of 0.92 is obtained.
